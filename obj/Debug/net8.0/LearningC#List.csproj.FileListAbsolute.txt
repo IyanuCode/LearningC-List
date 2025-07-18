@@ -1,0 +1,14 @@
+C:\Users\Iyanu\Documents\C#_Projects\VS code\LearningC#List\bin\Debug\net8.0\LearningC#List.exe
+C:\Users\Iyanu\Documents\C#_Projects\VS code\LearningC#List\bin\Debug\net8.0\LearningC#List.deps.json
+C:\Users\Iyanu\Documents\C#_Projects\VS code\LearningC#List\bin\Debug\net8.0\LearningC#List.runtimeconfig.json
+C:\Users\Iyanu\Documents\C#_Projects\VS code\LearningC#List\bin\Debug\net8.0\LearningC#List.dll
+C:\Users\Iyanu\Documents\C#_Projects\VS code\LearningC#List\bin\Debug\net8.0\LearningC#List.pdb
+C:\Users\Iyanu\Documents\C#_Projects\VS code\LearningC#List\obj\Debug\net8.0\LearningC#List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iyanu\Documents\C#_Projects\VS code\LearningC#List\obj\Debug\net8.0\LearningC#List.AssemblyInfoInputs.cache
+C:\Users\Iyanu\Documents\C#_Projects\VS code\LearningC#List\obj\Debug\net8.0\LearningC#List.AssemblyInfo.cs
+C:\Users\Iyanu\Documents\C#_Projects\VS code\LearningC#List\obj\Debug\net8.0\LearningC#List.csproj.CoreCompileInputs.cache
+C:\Users\Iyanu\Documents\C#_Projects\VS code\LearningC#List\obj\Debug\net8.0\LearningC#List.dll
+C:\Users\Iyanu\Documents\C#_Projects\VS code\LearningC#List\obj\Debug\net8.0\refint\LearningC#List.dll
+C:\Users\Iyanu\Documents\C#_Projects\VS code\LearningC#List\obj\Debug\net8.0\LearningC#List.pdb
+C:\Users\Iyanu\Documents\C#_Projects\VS code\LearningC#List\obj\Debug\net8.0\LearningC#List.genruntimeconfig.cache
+C:\Users\Iyanu\Documents\C#_Projects\VS code\LearningC#List\obj\Debug\net8.0\ref\LearningC#List.dll
