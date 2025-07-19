@@ -12,3 +12,4 @@ C:\Users\Iyanu\Documents\C#_Projects\VS code\LearningC#List\obj\Debug\net8.0\ref
 C:\Users\Iyanu\Documents\C#_Projects\VS code\LearningC#List\obj\Debug\net8.0\LearningC#List.pdb
 C:\Users\Iyanu\Documents\C#_Projects\VS code\LearningC#List\obj\Debug\net8.0\LearningC#List.genruntimeconfig.cache
 C:\Users\Iyanu\Documents\C#_Projects\VS code\LearningC#List\obj\Debug\net8.0\ref\LearningC#List.dll
+C:\Users\Iyanu\Documents\C#_Projects\VS code\LearningC#List\obj\Debug\net8.0\LearningC#List.sourcelink.json
